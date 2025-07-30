@@ -23,8 +23,7 @@
 
     &--yellow-arrow {
         &::after {
-            content: url('../../icons/arrow-top-right_yellow.svg');
-            // background-image: url('../../icons/arrow-top-right_yellow.svg');
+            background-image: url('../../icons/arrow-top-right_yellow.svg');
         }
     }
 
